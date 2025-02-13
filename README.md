@@ -10,6 +10,7 @@ The tool supports multiple image formats like PNG, JPG, JPEG, and BMP, and provi
 paths or select files through a graphical popup dialog.
 
 Features ____________________________________________________________________________
+
 Encoding: Allows you to encode a secret message into an image file.
 Decoding: Allows you to extract the hidden message from an image.
 File Dialogs: Option to select input and output image files using popup dialogs or by manually entering file paths.
@@ -17,6 +18,7 @@ ASCII Art Welcome Screen: Displays a custom ASCII art message on startup.
 Delimiter: Appends an "EOF" delimiter at the end of the encoded message to mark its end.
 
 Requirements__________________________________________________________________________
+
 Python 3.x
 Pillow (PIL) library for image manipulation
 Tkinter for file dialog
@@ -24,6 +26,7 @@ Installing Dependencies
 To install the required dependencies, run the following command: pip install pillow
 
 Usage _______________________________________________________________________________
+
 Step 1: Run the Program
 To run the program, execute the Python script steganography.py: python steganography.py
 
