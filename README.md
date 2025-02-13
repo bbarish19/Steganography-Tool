@@ -2,6 +2,7 @@ Steganography Tool
 Program created by: Benjamin Barish
 
 Description _________________________________________________________________________
+
 This Steganography Tool allows users to encode and decode secret messages in image files using the least significant bit (LSB) 
 technique. The program provides a simple and interactive interface to encode a message into an image and later decode it back.
 
