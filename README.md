@@ -15,7 +15,7 @@ Features
 2. Decoding: Allows you to extract the hidden message from an image.
 3. File Dialogs: Option to select input and output image files using popup dialogs or by manually entering file paths.
 
-Requirements__________________________________________________________________________
+Requirements
 
 Python 3.x
 Pillow (PIL) library for image manipulation
@@ -23,7 +23,7 @@ Tkinter for file dialog
 Installing Dependencies
 To install the required dependencies, run the following command: pip install pillow
 
-Usage _______________________________________________________________________________
+Usage 
 
 Step 1: Run the Program
 To run the program, execute the Python script steganography.py: python steganography.py
