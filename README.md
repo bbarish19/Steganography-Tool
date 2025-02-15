@@ -1,7 +1,7 @@
 Steganography Tool
 Program created by: Benjamin Barish
 
-Description _________________________________________________________________________
+Description 
 
 This Steganography Tool allows users to encode and decode secret messages in image files using the least significant bit (LSB) 
 technique. The program provides a simple and interactive interface to encode a message into an image and later decode it back.
@@ -9,13 +9,11 @@ technique. The program provides a simple and interactive interface to encode a m
 The tool supports multiple image formats like PNG, JPG, JPEG, and BMP, and provides the option to either manually enter file 
 paths or select files through a graphical popup dialog.
 
-Features ____________________________________________________________________________
+Features 
 
-Encoding: Allows you to encode a secret message into an image file.
-Decoding: Allows you to extract the hidden message from an image.
-File Dialogs: Option to select input and output image files using popup dialogs or by manually entering file paths.
-ASCII Art Welcome Screen: Displays a custom ASCII art message on startup.
-Delimiter: Appends an "EOF" delimiter at the end of the encoded message to mark its end.
+1. Encoding: Allows you to encode a secret message into an image file.
+2. Decoding: Allows you to extract the hidden message from an image.
+3. File Dialogs: Option to select input and output image files using popup dialogs or by manually entering file paths.
 
 Requirements__________________________________________________________________________
 
